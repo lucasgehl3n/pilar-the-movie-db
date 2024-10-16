@@ -3,6 +3,11 @@ Olá, eu sou o Lucas. Obrigado por chegar até aqui e se interessar no meu proje
 Este projeto contempla um front-end desenvolvido com Nuxt com o objetivo de ser uma listagem de filmes que busca os registros das APIs do site The Movie DB. 
 Além disso, este projeto conta com a camada de integração que realiza as requisições para o site (BFF). 
 
+# Link publicado
+https://pilar-the-movie-db.vercel.app/
+
+Por ser uma hospedagem gratuita, a aplicação publicada pode ficar indisponível quando ficar sem acessos. Por favor, tenha paciência =) 
+
 # Como executar
 - O projeto é dividido em dois diretórios: BFF e client. É necessário instalar as dependências em ambos os diretórios e executá-los simultâneamente. As sessões a seguir detalham melhor cada um dos diretórios, mas para rodá-los faça o seguinte:
 
