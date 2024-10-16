@@ -1,4 +1,4 @@
-# Como executar
+# Sobre o projeto
 Olá, eu sou o Lucas. Obrigado por chegar até aqui e se interessar no meu projeto.
 Este projeto contempla um front-end desenvolvido com Nuxt com o objetivo de ser uma listagem de filmes que busca os registros das APIs do site The Movie DB. 
 Além disso, este projeto conta com a camada de integração que realiza as requisições para o site (BFF). 
