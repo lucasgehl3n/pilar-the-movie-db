@@ -1,6 +1,6 @@
 export default {
-    API_MOVIES_LIST: 'http://localhost:3100/api/getMovies',
-    API_MOVIES_SEARCH: 'http://localhost:3100/api/searchMovies',
-    API_MOVIE_DETAIL: 'http://localhost:3100/api/detail',
+    API_MOVIES_LIST: `${process.env.BASE_URL_BACKEND}/api/getMovies`,
+    API_MOVIES_SEARCH: `${process.env.BASE_URL_BACKEND}/api/searchMovies`,
+    API_MOVIE_DETAIL: `${process.env.BASE_URL_BACKEND}/api/detail`,
     URL_IMAGE_PATH: 'https://image.tmdb.org/t/p/',
 }
