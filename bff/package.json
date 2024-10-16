@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "test": "vitest",
-    "start": "node dist/server.js",
+    "start": "node dist/bff/server.js",
     "dev": "nodemon"
   },
   "author": "Lucas Gehlen",
