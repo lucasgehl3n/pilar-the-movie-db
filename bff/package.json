@@ -20,6 +20,7 @@
     "flatted": "^3.3.1"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
     "@types/node": "^22.7.5",
     "cors": "^2.8.5",
