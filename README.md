@@ -108,9 +108,9 @@ Este projeto é um frontend desenvolvido com Nuxt.js e Vue 3.
 - **test**: Contém os testes unitários.
 
 # O que gostaria de ter feito com mais tempo de desenvolvimento?
--Como meu tempo foi um pouco apertado para o desenvolvimento, ficam aqui algumas ideias que eu não consegui implementar a tempo:
--Utilização de Cypress para testes E2E com escrita dos testes utilizando Cucumber. 
--Mair cobertura dos testes unitários do client. Acabei não conseguindo cobrir parte dos cenários por questões de tempo de desenvolvimento, pois a forma que estruturei a aplicação, componentizando o que era possível tornou isso bastante trabalhoso. Tentei deixar alguns testes de exemplo no Client e BFF, mas idealmente a cobertura deve ser de 100% e eliminar possíveis "mutantes".
--Falando em mutantes, me refiro a testes de mutação, que garantem a efetividade dos testes unitários cobrindo todos os cenários possíveis. Gostaria de adicioná-los com o Stryker.
--Abordagem de internacionalização, permitindo troca de idioma, como implementado no meu site https://gehlen.tech/, disponível no repositório https://github.com/lucasgehl3n/lp-gehlen.
+- Como meu tempo foi um pouco apertado para o desenvolvimento, ficam aqui algumas ideias que eu não consegui implementar a tempo:
+- Utilização de Cypress para testes E2E com escrita dos testes utilizando Cucumber. 
+- Mair cobertura dos testes unitários do client. Acabei não conseguindo cobrir parte dos cenários por questões de tempo de desenvolvimento, pois a forma que estruturei a aplicação, componentizando o que era possível tornou isso bastante trabalhoso. Tentei deixar alguns testes de exemplo no Client e BFF, mas idealmente a cobertura deve ser de 100% e eliminar possíveis "mutantes".
+- Falando em mutantes, me refiro a testes de mutação, que garantem a efetividade dos testes unitários cobrindo todos os cenários possíveis. Gostaria de adicioná-los com o Stryker.
+- Abordagem de internacionalização, permitindo troca de idioma, como implementado no meu site https://gehlen.tech/, disponível no repositório https://github.com/lucasgehl3n/lp-gehlen.
 
